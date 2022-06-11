@@ -8,8 +8,8 @@ además se ha conectado el front con Thymeleaf librería que nos ayuda a simplif
 un poco el front.
 
 Como finalización el CRUD completo en la base de datos, por lo cual se entrega una aplicacón netamente funcional y se monta un video explicativo del codigo y la funcionalidad
-de la aplciación Web en Youtube .
+de la aplicación Web en Youtube .
 
 Video: https://www.youtube.com/watch?v=1tGEmPUvZS4
 
-Autores: Daniel Felipe Marin Giraldo, Duvan Botero y Santiago Bedoya
+Autores: Daniel Felipe Marin, Duvan Botero y Santiago Bedoya
