@@ -11,6 +11,12 @@ import org.springframework.web.bind.annotation.PostMapping;
 
 import com.app.web.servicio.ClienteServicio;
 
+/**
+ * Autor Daniel Felipe Marin Giraldo
+ * Clase Entidad para la tabla en la BD
+ * version 2.0
+ */
+
 @Controller
 public class ClienteControlador {
 
